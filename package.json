@@ -1,0 +1,19 @@
+{
+  "name": "movienodegraphql",
+  "version": "1.0.0",
+  "description": "Movie api with Node-js + Graphpl-yoga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Yabamui@github.com/Yabamui/movieNodeGraphql.git"
+  },
+  "author": "yabamui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yabamui/movieNodeGraphql/issues"
+  },
+  "homepage": "https://github.com/Yabamui/movieNodeGraphql#readme"
+}
