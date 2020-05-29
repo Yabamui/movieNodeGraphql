@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yabamui/movieNodeGraphql/issues"
   },
-  "homepage": "https://github.com/Yabamui/movieNodeGraphql#readme"
+  "homepage": "https://github.com/Yabamui/movieNodeGraphql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
